@@ -8,3 +8,6 @@
 
 ### Misc
 [FizzBuzz using Streams & Enum in Elixir](misc/fizz_buzz.exs)
+
+### Notes
+[CQRS](CQRS/README.md)
